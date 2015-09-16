@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:13:01.382674
 #+TITLE: 無上黃籙大齋立成儀
-#+DATE: 2015-08-29 00:14:12
+#+PROPERTY: DZID  DZ0508
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，9—378 五十七卷 洞玄部威儀類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
