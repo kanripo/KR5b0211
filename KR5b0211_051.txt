@@ -1,0 +1,9 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 無上黃籙大齋立成儀
+#+DATE: 2015-08-29 00:14:12
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: LASTPB  <md:KR5b0211_HFL_042-016a>
+#+PROPERTY: JUAN 51
+¶¶<md:KR5b0211_HFL_042-016b>¶¶¶¶¶¶¶¶¶¶¶¶<md:KR5b0211_HFL_043-001a>¶¶¶¶¶¶¶¶¶<pb:KR5b0211_CK-KZ_01p054b><pb:KR5b0211_CK-KZ_01p055a>
+心
